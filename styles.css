@@ -57,7 +57,7 @@ footer {
 /* Index page styles */
 
 #hero {
-    background-image: url('../images/index_page.jpg'); 
+    background-image: url("../images/index_page.jpg"); 
     background-size: cover;
     background-position: center;
     height: 100vh; /* height as needed */
@@ -107,7 +107,7 @@ footer {
 /*Form page styles*/
 
 #tripCalculator {
-    background-image: url('../images/Form_Page.jpg'); 
+    background-image: url("../images/Form_Page.jpg"); 
     background-size: cover;
     background-position: center;
     padding: 20px;
